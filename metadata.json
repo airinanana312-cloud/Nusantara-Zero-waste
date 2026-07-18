@@ -1,0 +1,6 @@
+{
+  "name": "Zero Waste Life & Carbon Calculator",
+  "description": "Landing page kampanye hidup minim sampah (zero waste lifestyle), edukasi sustainability, dan kalkulator jejak karbon pribadi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
